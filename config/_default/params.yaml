@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: 1950s
   theme_night: minimal
   font: minimal
   font_size: L
@@ -18,11 +18,11 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: '敖小剑的个人技术博客网站，主要关注服务网格,serverless,kubernetes,微服务等云原生技术。'
+    twitter: 'SkyAoXiaojian'
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
+    google_analytics: 'G-4BVWTNS4MB'
+    baidu_tongji: '17048c9d4209e5d08a9ae5b0b4160808'
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
@@ -45,18 +45,18 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} skyao.io All Rights Reserved'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: '2006-01-02'
+  time_format: '15:04'
   address_format: en-us
 
 # Site features
@@ -70,9 +70,9 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/skyao/skyao.io'
     content_dir: content
-    branch: main
+    branch: master
   avatar:
     gravatar: false
     shape: circle
@@ -96,7 +96,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapnik'
+    provider: ''
     api_key: ''
     zoom: 15
 
@@ -114,3 +114,7 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+
+power_ups:
+  hide_published_with: true

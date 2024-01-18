@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 敖小剑
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ao Xiaojian
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: 小剑
+last_name: 敖
 
 # Status emoji
 status:
@@ -17,74 +17,68 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 新时代农民工 * 中年码农
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: SkyAo.io
+    url: https://skyao.io/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 我目前研究的方向主要在Microservice、Servicemesh、Serverless等Cloud Native相关的领域，全职从事Dapr开发，欢迎交流和指导。
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 微服务/Micro Service
+  - 服务网格/Service Mesh
+  - 无服务器/Serverless
+  - 事件驱动/Event Driven
+  - 应用运行时/App Runtime
+  - 云原生/Cloud Native
+  - Rust/Golang/Java/C#
+  - Web Assembly
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: Principal Software Engineer
+    institution: 微软 DevDiv China
+    year: 2022-至今
+  - course: 高级技术专家 / 布道师
+    institution: 蚂蚁集团/阿里云
+    year: 2018-2021
+  - course: 资深架构师 / 布道师
+    institution: 数人云
+    year: 2016-2017
+  - course: 架构师
+    institution: 唯品会
+    year: 2015
+  - course: 架构师
+    institution: 爱立信
+    year: 2008-2014
+  - course: 高级软件开发工程师
+    institution: 亚信科技
+    year: 2004-2007
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+  items:
+    - name: Python
+      description: ''
+      percent: 80
+      icon: python
+      icon_pack: fab
+    - name: Data Science
+      description: ''
+      percent: 100
+      icon: chart-line
+      icon_pack: fas
+    - name: SQL
+      description: ''
+      percent: 40
+      icon: database
+      icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -96,29 +90,22 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/skyaoxiaojian80
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://github.com/skyao
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+敖小剑，资深码农，二十二年软件开发经验，微服务专家，Service Mesh布道师，云原生布道师，Dapr Approver。专注于基础架构，Cloud Native 爱好者和实践者，坚守开发一线打磨匠艺的架构师。曾在亚信、爱立信、唯品会、数人云、蚂蚁集团/阿里云等任职，对基础架构和微服务有过深入研究和实践，矢志不渝探索云原生新方向。
+
+目前就职微软开发平台事业部（DevDiv/全称Developer Division），开发维护 Dapr 等云原生产品。
+
+（欢迎使用  [<i class="fa fa-rss" aria-hidden="true"></i> RSS订阅](https://skyao.io/index.xml) 本站内容更新）
+
 {style="text-align: justify;"}
